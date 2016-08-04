@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew From</title>
+    <link>http://andrewfrom.com/</link>
+    <description>Recent content on Andrew From</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2016. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 24 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://andrewfrom.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://andrewfrom.com/about/</link>
+      <pubDate>Sun, 24 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://andrewfrom.com/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engagement</title>
+      <link>http://andrewfrom.com/engagement/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://andrewfrom.com/engagement/</guid>
+      <description>&lt;p&gt;&lt;center&gt;More Photos coming soon.&lt;/center&gt;
+
+&lt;div class=&#34;pure-u-1&#34;&gt;
+  &lt;img class=&#34;pure-img&#34; src=&#34;http://andrewfrom.com/img/engagement/sitting.jpg&#34; alt=&#34;Andrew and Andrea sitting under a bridge&#34;&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://andrewfrom.com/contact/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://andrewfrom.com/contact/</guid>
+      <description>&lt;p&gt;If you have any questions, you can contact me via &lt;a href=&#34;mailto:mail@andrewfrom.com&#34;&gt;email&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
